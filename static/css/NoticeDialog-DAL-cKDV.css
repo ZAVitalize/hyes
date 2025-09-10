@@ -1,0 +1,10 @@
+.dialog-content[data-v-4fda1e03] {
+    height: 300px;
+    padding: 0 10px;
+    overflow-y: scroll
+}
+
+.dialog-content[data-v-4fda1e03] img {
+    width: 100%;
+    margin: 0
+}

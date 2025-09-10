@@ -1,0 +1,19 @@
+.income-notice-bg[data-v-e306a408] {
+    background: -webkit-linear-gradient(bottom, rgba(0, 0, 0, .9), rgba(0, 0, 0, 0));
+    background: linear-gradient(to top, rgba(0, 0, 0, .9), rgba(0, 0, 0, 0));
+    --van-cell-text-color: #fff;
+    position: absolute;
+    overflow: hidden
+}
+
+.income-notice[data-v-e306a408] {
+    --van-cell-background: transparent;
+    height: 204px;
+    bottom: 0;
+    left: 0;
+    right: 0
+}
+
+.income-notice .income-swipe[data-v-e306a408] {
+    height: 204px
+}

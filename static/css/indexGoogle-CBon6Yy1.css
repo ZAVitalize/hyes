@@ -1,0 +1,17 @@
+.main-wrapper-tab-bar-height[data-v-c1204c30] {
+    position: relative
+}
+
+.language-select-icon[data-v-c1204c30] {
+    position: absolute;
+    min-width: 40px;
+    min-height: 40px;
+    border-radius: 50%;
+    right: 10px;
+    top: 10px;
+    z-index: 20
+}
+
+.language-select-icon .icon-Language[data-v-c1204c30] {
+    font-size: 30px
+}
